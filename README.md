@@ -33,9 +33,7 @@
 
 <ol>
   <li>Clone the repository:
-      <pre>
-         <code>git clone https://github.com/hardidarmawan/akademi-kepolisian-web-profile.git</code>
-      </pre>
+      <pre><code>git clone https://github.com/hardidarmawan/akademi-kepolisian-web-profile.git</code></pre>
   </li>
   <li>Open the <code>index.html</code> file in a browser to view the result.</li>
 </ol>
